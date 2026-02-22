@@ -1,3 +1,9 @@
+# discontinued. we're rewriting our own tool from scratch (AND WE'VE CONFIRMED THAT IT REPORTS VERIFIED AS THE BOOT MODE)
+## the repo won't be deleted just because i don't like permanently destroying knowledge, even if it's sub-part.
+
+
+
+
 # murkmod
 murkmod is a continuation of fakemurk and mush that includes additional useful utilities, with the most prominent being a policy manager.
 the original can be found [here](https://github.com/rainestorme/murkmod)
