@@ -1,5 +1,6 @@
-# discontinued. we're rewriting our own tool from scratch (AND WE'VE CONFIRMED THAT IT REPORTS VERIFIED AS THE BOOT MODE)
-## the repo won't be deleted just because i don't like permanently destroying knowledge, even if it's sub-part.
+# discontinued.
+## this was scrapped in favor of [modmium](https://github.com/crosmium/modmium), which was rewritten from scratch and much better
+### the repo won't be deleted just because i don't like permanently destroying knowledge, even if it's sub-par.
 
 
 
